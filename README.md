@@ -5,7 +5,7 @@
 Ett institutionellt portföljoptimeringsverktyg som skyddar mot 
 estimeringsfel i förväntad avkastning och kovariansmatriser.
 
-Klassisk Markowitz är känslig för små fel i inputdata — en liten 
+Klassisk Markowitz är känslig för små fel i inputdata, en liten 
 feluppskattning kan lägga 80% av portföljen i en enda aktie. 
 Det här projektet löser det genom att optimera mot det VÄRSTA 
 troliga scenariot inom ett definierat osäkerhetsintervall.
